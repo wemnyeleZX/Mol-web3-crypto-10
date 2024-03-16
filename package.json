@@ -20,6 +20,9 @@
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.15.13",
+    "hai-custom-button": "^1.0.0",
+    "hai-error-dialog": "^1.0.0",
+    "hai-spreadsheet-dialog": "^1.0.0",
     "mol-web3-crypto-1": "^1.0.0",
     "mol-web3-crypto-2": "^1.0.0",
     "mol-web3-crypto-3": "^1.0.0",
@@ -30,6 +33,11 @@
     "mol-web3-crypto-8": "^1.0.0",
     "mol-web3-crypto-9": "^1.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "vnhat-alert-component": "^1.0.0",
+    "vnhat-button-component": "^1.0.0",
+    "vnhat-dropdown-component": "^1.0.0",
+    "vnhat-forminput-component": "^1.0.1",
+    "vnhat-modal-component": "^1.0.0"
   }
 }
