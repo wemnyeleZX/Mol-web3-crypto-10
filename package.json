@@ -1,6 +1,6 @@
 {
   "name": "mol-web3-crypto-10",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Đoạn mã này tích hợp một cổng thanh toán crypto vào dự án của bạn để cho phép thanh toán và nhận thanh toán bằng crypto.",
   "main": "index.js",
   "scripts": {
