@@ -1,0 +1,35 @@
+{
+  "name": "mol-web3-crypto-10",
+  "version": "1.0.0",
+  "description": "Đoạn mã này tích hợp một cổng thanh toán crypto vào dự án của bạn để cho phép thanh toán và nhận thanh toán bằng crypto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wemnyeleZX/Mol-web3-crypto-10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wemnyeleZX/Mol-web3-crypto-10/issues"
+  },
+  "homepage": "https://github.com/wemnyeleZX/Mol-web3-crypto-10#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "mol-web3-crypto-1": "^1.0.0",
+    "mol-web3-crypto-2": "^1.0.0",
+    "mol-web3-crypto-3": "^1.0.0",
+    "mol-web3-crypto-4": "^1.0.0",
+    "mol-web3-crypto-5": "^1.0.0",
+    "mol-web3-crypto-6": "^1.0.0",
+    "mol-web3-crypto-7": "^1.0.0",
+    "mol-web3-crypto-8": "^1.0.0",
+    "mol-web3-crypto-9": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
